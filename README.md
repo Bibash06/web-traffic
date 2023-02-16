@@ -8,3 +8,7 @@ At the moment, we choose manager favorite recipe from a selection and display th
 To do list:
 - Predict which recipes will lead to high traffic?
 - Correctly predict high traffic recipes 80% of the time?
+
+You can find data here:
+https://s3.amazonaws.com/talent-assets.datacamp.com/recipe_site_traffic_2212.csv
+
